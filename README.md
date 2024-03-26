@@ -13,12 +13,12 @@ Features
 -Find: Locate a student by their student ID and support updating their information if found.
 
 -Listing: 
-          -List all students in lexicographic order of their names.
-          ---
-          -Search for a city and list all students from that city in lexicographic order of their names.
-          ---
-          -List all students by their class in lexicographic order of their names.
-          ---
+* List all students in lexicographic order of their names.
+  
+   * Search for a city and list all students from that city in lexicographic order of their names.
+     
+     * List all students by their class in lexicographic order of their names.
+          
 -Deletion: Remove a student given their student ID.
 
 -Data Persistence: Save all student data to a file named students.data.
